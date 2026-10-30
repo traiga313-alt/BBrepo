@@ -4,5 +4,3 @@ if so%2 == 0:
 
 if so%2 == 1:
     print("dayla so le")
-
-print("gg funkin ez")
